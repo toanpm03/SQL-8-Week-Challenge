@@ -7,9 +7,7 @@ He plans on using these insights to help him decide whether he should expand the
 
 Danny has provided you with a sample of his overall customer data due to privacy issues - but he hopes that these examples are enough for you to write fully functioning SQL queries to help him answer his questions!
 
-Danny has shared with you 3 key datasets for this case study:sales, menu, members
-
-Entity Relationship Diagram
+Danny has shared with you 3 key datasets for this case study: sales, menu, members
 
 <img width="428" alt="image" src="https://github.com/toanpm03/SQL-8-Week-Challenge/assets/131639954/4db52756-e732-4fa3-8734-26f0ba6af46d">
 
