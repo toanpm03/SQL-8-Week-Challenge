@@ -33,6 +33,21 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 
 <img width="452" alt="image" src="https://github.com/toanpm03/SQL-8-Week-Challenge/assets/131639954/b80977db-ac70-40fd-b013-a45979651eb5">
 
+Insights and findings
+
+In 1st week 2 runners signed up, in 2nd week only 1 runner signed up & in 3rd week also only 1 runner signed up.
+
+The average time it took for runner_1 is 15.33 minutes, runner_2 took 23.40 minutes while runner_3 took 10 minutes to arrive at the Pizza Runner HQ to pick up the order.
+
+We can say more number of pizzas will take higher time to prepare than preparing 1 pizza.
+
+Average distance travelled for customer 101 is 20 km, for customer 102 is 18.4 km, customer 103 is 23.4 km, customer 104 is 10 km while for customer 105 is 25 km.
+
+The difference between the longest and shortest delivery times for all orders is 44 minutes.
+
+Runner’s speed is higher in case of shorter distance than the longer distance for runner 1. While in case of runner 2 this pattern doesn’t follow for all the orders as in case of same distance, there is huge different in his speed.
+
+The successful delivery percentage for runner 1 is 100%, runner 2 is 75% while runner 3 is 50%
 
 
 
