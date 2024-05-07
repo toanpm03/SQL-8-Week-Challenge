@@ -58,5 +58,6 @@ In particular - the composition and rankings for different interests are provide
 
 Danny has asked for your assistance to analyse aggregated metrics for an example client and provide some high level insights about the customer list and their interests.
 
-https://8weeksqlchallenge.com/images/case-study-designs/8.png
+![image](https://github.com/toanpm03/SQL-8-Week-Challenge/assets/131639954/bc02190a-1a70-416f-ab80-06c862c010be)
+
 
